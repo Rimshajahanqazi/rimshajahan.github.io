@@ -1,0 +1,101 @@
+<style>
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+header
+{
+	width: 100%;
+	height: 15pv;
+	background-color: rgba(0, 0, 0, 1.0);
+}
+nav{
+	width: 100%;
+	height: 10vh;
+	background-color:whitesmoke;
+	display: flex;
+	
+	
+}
+.firstsection
+{
+	background-color: lightpink;
+	justify-content: space-between;
+}
+.secondsec{
+	background-color:pink;
+}
+.fi{
+	font-weight: bold;
+	color: darkred;
+
+}
+.vi{
+	font-weight: bold;
+	color: darkred;
+}
+.ti{
+	color: rebeccapurple;
+}
+.bteight{
+	background-color:yellow;
+	color: deeppink;
+	font-weight: bold;
+}
+.yy{
+	color: deeppink;
+}
+.btone{
+	background-color: rebeccapurple;
+	color: whitesmoke;
+}
+.bttwo{
+	color: deeppink;
+	justify-content:space-evenly;
+}
+.btthree{
+	background-color: deeppink;
+	color: white;
+}
+.background{
+	color: white;
+background-color: black;	 
+}
+.footer-right
+{
+	width: 30%;
+}
+.button
+{
+	justify-content: space-between;
+}
+.btlogin
+{
+background-color: white;
+color: purple;
+}
+.btsignup
+{
+	background-color: rebeccapurple;
+	color: white;
+}
+.btfour{
+	font-weight: bold;
+	font-size: 30px;
+	background-color: skyblue;
+}
+.thirdsec{
+	background-color: purple;
+	color: white;
+}
+.btfive{
+	background-color: white;
+	color: purple;
+}
+.btsix{
+	background-color: purple;
+	color: white;
+}
+</style>
